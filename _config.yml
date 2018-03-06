@@ -177,3 +177,5 @@ defaults:
       path: "_posts/pt"
     values:
       lang: "pt"
+
+theme: jekyll-theme-cayman
